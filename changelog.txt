@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+  Features:
+    - Added redo and keyboard shortcuts for undo (Ctrl+Alt+Z) and redo (Ctrl+Alt+Y).
+    - Added two diagonal gradient directions and a radial gradient that blends outward from the selection centre.
+    - Added gradient favourites that store both endpoint colours and the direction.
+    - Added a checkbox to skip lamps and lamp ghosts configured for circuit colour or on/off control. The selection summary reports how many were skipped.
+  Changes:
+    - Added separate Set start and Set end buttons and editable hex fields for gradient endpoints.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+  Features:
+    - Added an area tool to change colour and always-on settings independently on lamps and lamp ghosts.
+    - Added RGB sliders, hex input, a live lamp preview, and an eyedropper.
+    - Added horizontal and vertical gradients and editable, reorderable colour favourites.
+    - Added selection summaries and up to 20 undo steps per player.

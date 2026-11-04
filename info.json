@@ -1,0 +1,9 @@
+{
+  "name": "lamp-colour-changer",
+  "version": "1.1.0",
+  "title": "Lamp Colour Changer",
+  "author": "Operator",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"],
+  "description": "Choose a colour from a compact picker, then drag over an area to recolour your lamps."
+}
